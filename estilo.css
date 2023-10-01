@@ -1,10 +1,7 @@
-*html{
-    margin: 0;
-    padding: 0;
-}
+
 body{
     font-family: 'Times New Roman', Times, serif;
-    font-size:2.25em;
+    font-size:2em;
 }
 .cabecalho{
     background-color: #ceedfa;
@@ -39,7 +36,7 @@ border: 2px solid  ;
 .Link{
     background-color: #86d5f5;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 2.5em;
+    font-size: 2 em;
     
 }
 .Link a{
@@ -79,7 +76,7 @@ display: flex;
 .texto-rodape{
     display: flex;
     justify-content: center;
-    font-size: 1em;
+    font-size: 1.2em;
     text-transform: uppercase;
     letter-spacing: 0.16em;
     margin: 0;
