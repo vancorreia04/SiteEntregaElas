@@ -1,0 +1,97 @@
+*html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:2.25em;
+}
+.cabecalho{
+    background-color: #ceedfa;
+    padding: 1.2em 0;
+    position: relative;
+}
+.sobreMim{
+    background-color: #86d5f5;
+}
+
+.cabecalho nav a:hover{
+    background-color:#2155BF; ;
+    color: white;
+}
+
+
+ .sobreMim .sobre{
+max-width: 20em;
+border-radius: 50%;
+border: 2px solid  ;
+ } 
+
+.cor-tema{
+   
+    color: #2155BF;
+    padding-top:1.25em ;
+}
+.video{
+    background-color: rgb(14, 4, 4);
+    color: white;
+}
+.Link{
+    background-color: #86d5f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5em;
+    
+}
+.Link a{
+    text-decoration: none;
+}
+
+.Depoimento{
+    
+    background-color: rgb(14, 4, 4);
+    color: white;
+    padding: 1.2em 0;
+    
+    
+}
+.rodape{
+
+padding: 2em;
+align-items: center;
+}
+.fundo-rodape{
+    background-color:#0D9FD9;
+}
+
+.logos-rodape{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+
+}
+.tamanho{
+    width:18.75em;
+display: flex;
+}
+.tamanho{
+    height: 100%;
+}
+.texto-rodape{
+    display: flex;
+    justify-content: center;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    margin: 0;
+    padding-top: 1.6 em;
+    color: rgb(14, 4, 4);
+    align-items: center;
+    font-weight: bold;
+}
+
+footer{
+    background-image: url(Imagens/FundoRodape.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
